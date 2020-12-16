@@ -1,1 +1,1 @@
-- Decagon HQ site developed to me
+- Decagon HQ site developed by me
